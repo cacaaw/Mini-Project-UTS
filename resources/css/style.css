@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+}
+.home-title-1{
+    font-size: 70px;
+    font-weight: 400;
+}
+
+.home-title-2{
+    font-size: 80px;
+}
+.navbar{
+    background-color: #FF8E8F;
+}
+.biodata .container{
+    background-color: #FFCBCB;
+}
+.daftar .btn-add{
+    background-color: #FF8E8F;
+}
